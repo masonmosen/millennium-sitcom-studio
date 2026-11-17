@@ -3,6 +3,8 @@
 > End-to-end production of 30-second Y2K (2000–2005) American 4:3 multi-camera sitcom episodes — American English dialogue, Chinese/English bilingual subtitles, Nano Banana 2 storyboard frames, Seedance 2.5 clips, two-pass subtitle finishing.
 >
 > 千禧年情景喜剧双语剧集制作：30 秒 4:3 多机位情景喜剧端到端全自动生产。
+>
+> 中文版：[README-CN.md](README-CN.md)
 
 ![Cover: episode title card](samples/cover-title-card.jpg)
 
@@ -72,7 +74,8 @@ Period authenticity is enforced: beige CRT monitors, cordless landlines, Nokia 3
 ```
 millennium-sitcom-studio/
 ├── SKILL.md                  # Skill definition (frontmatter + workflow + rules)
-├── README.md
+├── README.md                 # English
+├── README-CN.md              # Chinese
 ├── LICENSE
 ├── examples/
 │   └── ep01-dial-up-disaster.md   # Complete worked episode script
