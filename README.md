@@ -37,7 +37,16 @@ Three-wall set anchors (empty sets, ready for staging):
 | ![Scene A: apartment living room](samples/set-apartment-living-room.jpg) | ![Scene B: diner booth](samples/set-diner-booth.jpg) | ![Scene D: video rental store](samples/set-video-rental-store.jpg) |
 | Scene A — 2002 apartment living room | Scene B — retro diner booth | Scene D — video rental store |
 
-Three additional samples generated with Muse are also in `samples/` — featuring the baseline leads **Mason** (olive-green hoodie) and **Alex** (caramel henley). Ryan and Chloe above are the demo cast; the wardrobe baseline stays as specified.
+### Baseline leads — Mason & Alex
+
+The generated samples below feature the skill's baseline leads: **Mason** (olive-green hoodie) and **Alex** (caramel henley), in the exact wardrobe the spec defines. Ryan and Chloe above are the demo cast; the wardrobe baseline stays as specified.
+
+![Mason & Alex — apartment living room two-shot](samples/sample-hero-two-shot.webp)
+
+| | |
+|---|---|
+| ![Mason & Alex — diner booth two-shot](samples/sample-diner-booth.webp) | ![Mason — character reference sheet](samples/sample-character-sheet.webp) |
+| Diner booth two-shot | Mason character reference sheet |
 
 ## Quick start
 
