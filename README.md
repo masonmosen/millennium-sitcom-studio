@@ -43,10 +43,7 @@ The generated samples below feature the skill's baseline leads: **Mason** (olive
 
 ![Mason & Alex — apartment living room two-shot](samples/sample-hero-two-shot.webp)
 
-| | |
-|---|---|
-| ![Mason & Alex — diner booth two-shot](samples/sample-diner-booth.webp) | ![Mason — character reference sheet](samples/sample-character-sheet.webp) |
-| Diner booth two-shot | Mason character reference sheet |
+![Mason & Alex — diner booth two-shot](samples/sample-diner-booth.webp)
 
 ## Quick start
 
@@ -95,7 +92,6 @@ millennium-sitcom-studio/
     ├── set-diner-booth.jpg
     ├── set-video-rental-store.jpg
     ├── sample-hero-two-shot.webp  # Extra generated sample: Mason & Alex, apartment two-shot
-    ├── sample-character-sheet.webp # Extra generated sample: Mason character sheet
     └── sample-diner-booth.webp    # Extra generated sample: Mason & Alex, diner two-shot
 ```
 
